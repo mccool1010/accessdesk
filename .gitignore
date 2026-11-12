@@ -1,0 +1,7 @@
+.venv/
+notes/
+__pycache__/
+.env
+db.sqlite3
+ACCESSDESK_PLAN.md
+AccessDesk_CLAUDE.md
